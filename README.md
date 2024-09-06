@@ -1,10 +1,9 @@
-# BIODATA KELOMPOK
+# BIODATA BIMA
 
-Yosep Bima Aprillian
-244107060027
+NAMA    : Yosep Bima Aprillian
 
-Pranata Putrandana
-244107060114
+NIM     : 244107060027
 
-Christoforus Avrio Witoberd
-244107060073
+ABSEN   : 26
+
+ALAMAT  : JL. GILIMANUK VI/6
